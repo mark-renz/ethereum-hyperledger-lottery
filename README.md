@@ -15,7 +15,7 @@ time the old one closes. It will also allow users to purchase multiple
 tickets in one transaction instead of just one and add a couple of security
 improvement
 
-* [RNG Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/ethereum/rng%20lottery) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
+* [RNG Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/ethereum/rng) - The RNG Lottery is non-recurring, the numbers are randomly generated. Also after the round all users must reveal their tickets or else it will drop.
 
 
 * [Powerball](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/ethereum/powerball)  - In Powerball, the user picks six numbers per ticket. The first five
