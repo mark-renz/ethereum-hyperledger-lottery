@@ -39,14 +39,15 @@ Following are the process diagrams of the lottery games.
 ## Changes from ethereum to hyperledger design
 
 * **Wallet** - wallet does not exist from hyperledger so we've created accounts
-so we can save the users identity and token count.
+so we can save the users identity and token count. This will act as a wallet
+where we deduct or pass the reward token for the lottery.
 
 * **Public blockchain** - hyperledger is a private blockchain so the solution we present is to create
-the accounts inside one chaincode. This way the all users will publicly allowed to see all data
+the accounts inside one chaincode. This way all users, in the chaincode, will publicly allowed to see all data
 inside one chaincode.
 
-
-
+* **Addresses** - in ethereum, users are identified through their addresses. In our design, users will be
+identified through the account they have registered.
 
 ## Contributors:
 
