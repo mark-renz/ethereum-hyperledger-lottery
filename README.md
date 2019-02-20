@@ -28,11 +28,11 @@ based on the number of winning numbers matched on your ticket.
 ## Hyperledger
 Following are the process diagrams of the lottery games.
 
-* [Simple Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/simple-lottery)
+* [Simple Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/simple)
 
-* [Recurring Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/Recurring)
+* [Recurring Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/recurring)
 
-* [RNG Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/RNG-Lottery)
+* [RNG Lottery](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/rng)
 
 * [Powerball](https://github.com/mark-renz/ethereum-hyperledger-lottery/tree/master/hyperledger/powerball)
 
